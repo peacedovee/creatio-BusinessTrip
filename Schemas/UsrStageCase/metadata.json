@@ -1,0 +1,113 @@
+{
+  "MetaData": {
+    "Schema": {
+      "ManagerName": "DcmSchemaManager",
+      "UId": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+      "A2": "UsrStageCase",
+      "A5": "e35841c7-7819-46d8-bcde-f8453dc67213",
+      "B1": [],
+      "B2": [],
+      "B3": [],
+      "B6": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+      "B8": "8.3.2.4199",
+      "FJ1": [],
+      "IJ1": true,
+      "BK8": "51b280eb-d8a3-4932-81b9-ef61a0877aab",
+      "IJ10": true,
+      "EntitySchemaUId": "4b93d605-0d87-4de0-8b44-4612f9f17783",
+      "BK15": [],
+      "BK37": {
+        "BL1": "Terrasoft.Core.Process.ProcessSchemaParameter",
+        "UId": "cdd58be7-2dba-4a5e-869b-1ad5d6d7513a",
+        "A2": "NotificationCaption",
+        "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+        "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+        "L1": "8b3f29bb-ea14-4ce5-a5c5-293a929b6ba2",
+        "L8": {
+          "GS1": 3,
+          "GS2": "[#[PropertyValue:Caption]#]"
+        }
+      },
+      "Stages": [
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "d161bfa5-8001-4fb0-9d1f-7cf1fe786965",
+          "A2": "Stage1",
+          "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+          "Color": "#0C8701",
+          "StageRecordId": "f4dec263-9f88-4446-87cd-2ab13c28fc04",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "96737581-33a2-42d6-99e0-f25edf8830e3",
+          "A2": "Stage2",
+          "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+          "Color": "#0C8701",
+          "StageRecordId": "ddc3db1e-c795-4692-84d1-187f9500fb33",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+          "A2": "Stage3",
+          "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+          "Color": "#0C8701",
+          "StageRecordId": "babbe1f3-767b-4a32-820c-fcd804fd1c7e",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154",
+          "A2": "Stage4",
+          "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+          "Color": "#0C8701",
+          "StageRecordId": "0bf1ca53-80c3-4582-a8a4-0c03bdc9a2b4",
+          "Elements": []
+        },
+        {
+          "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",
+          "UId": "c6211ec0-a473-498c-a3ee-c3a1e991f458",
+          "A2": "Stage5",
+          "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+          "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+          "Color": "#0C8701",
+          "StageRecordId": "ea82cef4-5081-4185-8404-556873aea015",
+          "Elements": []
+        }
+      ],
+      "Transitions": [],
+      "StageConnections": {
+        "Connections": [
+          {
+            "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+            "Target": "c6211ec0-a473-498c-a3ee-c3a1e991f458"
+          },
+          {
+            "Source": "d161bfa5-8001-4fb0-9d1f-7cf1fe786965",
+            "Target": "96737581-33a2-42d6-99e0-f25edf8830e3"
+          },
+          {
+            "Source": "96737581-33a2-42d6-99e0-f25edf8830e3",
+            "Target": "bef50c0e-77d7-40af-a5d5-458367f10b47"
+          },
+          {
+            "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+            "Target": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154"
+          }
+        ]
+      },
+      "StageColumnUId": "b07c1a7f-7e7e-70de-32e4-ab8759f0d37a",
+      "SystemElements": []
+    }
+  }
+}

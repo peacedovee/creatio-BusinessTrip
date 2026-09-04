@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Columns.UsrUsrBusinessTrip.Caption" Value="Business Trip Request" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDefColumnValuesSet.Caption" Value="ActivityDefColumnValuesSet" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDefColumnValuesSetScriptTask.Caption" Value="ActivityDefColumnValuesSetScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDeleted.Caption" Value="ActivityDeleted" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDeletingEventSubProcess.Caption" Value="Run event sub-process ActivityDeleting" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDeletingScriptTask.Caption" Value="ActivityDeleting event handler" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityDeletingStartMessage.Caption" Value="ActivityDeleting" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityInserted.Caption" Value="ActivityInserted" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityInsertedEventSubProcess.Caption" Value="Record added" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityInserting.Caption" Value="ActivityInserting" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityInsertingEventSubProcess.Caption" Value="Adding record" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySaved.Caption" Value="ActivitySaved" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySavedScriptTask.Caption" Value="ActivitySaved event handler" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySavedSubProcess.Caption" Value="Record saved" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySavingScriptTask.Caption" Value="ActivitySaving event handler" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySavingStartMessage.Caption" Value="ActivitySaving" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivitySavingSubProcess.Caption" Value="Saving record" />
+			<Item Name="EventsProcessSchema.BaseElements.ActivityUpdatedScriptTask_42f1f750f7be4667b75eeb7454a4a25d.Caption" Value="OnActivityUpdated" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingEventSubProcess_f0646c74f291474f9a10143ee868f1c9.Caption" Value="Validating record" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingScriptTask_a553628ef6dc4e09bdcf27e446fdc16f.Caption" Value="BaseEntityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEnityValidatingStartMessage_b3d5b61f7afe48b5a8cc40317ea9c428.Caption" Value="BaseEnityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedScriptTask.Caption" Value="BaseEntityDeletedScriptTask" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedStartMessage.Caption" Value="BaseEntityDeletedStartMessage" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletedSubProcess.Caption" Value="BaseEntityDeletedSubProcess" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletingEventSubProcess2.Caption" Value="Before deleting record" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityDeletingStartMessage2.Caption" Value="BaseEntityDeleting" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityEventSubProcess1.Caption" Value="After saving record" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavedIndexingTask.Caption" Value="BaseEntitySavedIndexingTask" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingEventSubProcess.Caption" Value="Before saving record" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingScriptTask.Caption" Value="BaseEntitySaving" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntitySavingStartMessage.Caption" Value="BaseEntitySaving" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseEntityStartMessage1.Caption" Value="BaseEntitySaved" />
+			<Item Name="EventsProcessSchema.BaseElements.BaseInsertedEventSubProcess.Caption" Value="After adding record" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow1_91b0fd7fdfd7441c9a9c9652b3e2f653.Caption" Value="Conditional flow 1" />
+			<Item Name="EventsProcessSchema.BaseElements.ConditionalSequenceFlow2_a34effe2af294a52a41439c626702dc4.Caption" Value="Conditional flow 2" />
+			<Item Name="EventsProcessSchema.BaseElements.EventSubProcess3_194a2b9eda6c440ba0883a59c753280a.Caption" Value="Updated" />
+			<Item Name="EventsProcessSchema.BaseElements.InsertedStartMessage1.Caption" Value="BaseEntityInserted" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptActivityInserted.Caption" Value="ActivityInserted event handler" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptActivityInserting.Caption" Value="ActivityInserting event handler" />
+			<Item Name="EventsProcessSchema.BaseElements.ScriptTask3_5a9e7100c80e443d9faafa3afd1b2c56.Caption" Value="OnActivityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage3_9d37e41aabe548ae868128ec71992033.Caption" Value="ActivityUpdated" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessage4_fd2b53ad8ebd437dbbd159c8f69b7f15.Caption" Value="ActivityValidating" />
+			<Item Name="EventsProcessSchema.BaseElements.StartMessageActivitySaved.Caption" Value="ActivitySaved" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeRemindingsIntermediateThrowMessageEvent.Caption" Value="SynchronizeRemindings" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeRemindingsOnDeleteIntermediateThrowMessageEvent.Caption" Value="SynchronizeRemindings" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeRemindingsStartMessage.Caption" Value="SynchronizeRemindings" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Caption" Value="SynchronizeSubjectRemindingAuthor" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Active.Caption" Value="Active action" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Author.Caption" Value="Created by" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Contact.Caption" Value="Recipient" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Description.Caption" Value="Notification notes" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsListSubjectReminds.Caption" Value="Work with several notifications for object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsSingleReminder.Caption" Value="A single reminder" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.IsSubjectDelete.Caption" Value="Notification record is deleted" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.NotificationType.Caption" Value="Type of notifications" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.PopupTitle.Caption" Value="PopupTitle" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.RemindTime.Caption" Value="Time of notification" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.Source.Caption" Value="Recipient role in object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectCaption.Caption" Value="SubjectCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SubjectPrimaryColumnValue.Caption" Value="Notification object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.SysEntitySchema.Caption" Value="Object containing record being notified about" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthor.Parameters.TypeCaption.Caption" Value="TypeCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingAuthorScript.Caption" Value="SynchronizeSubjectRemindingAuthorScript" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Caption" Value="SynchronizeSubjectRemindingOwner" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Active.Caption" Value="Active action" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Author.Caption" Value="Created by" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Contact.Caption" Value="Recipient" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Description.Caption" Value="Notification notes" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsListSubjectReminds.Caption" Value="Work with several notifications for object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsSingleReminder.Caption" Value="A single reminder" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.IsSubjectDelete.Caption" Value="Notification record is deleted" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.NotificationType.Caption" Value="Type of notifications" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.PopupTitle.Caption" Value="PopupTitle" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.RemindTime.Caption" Value="Time of notification" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.Source.Caption" Value="Recipient role in object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectCaption.Caption" Value="SubjectCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SubjectPrimaryColumnValue.Caption" Value="Notification object" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.SysEntitySchema.Caption" Value="Object containing record being notified about" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwner.Parameters.TypeCaption.Caption" Value="TypeCaption" />
+			<Item Name="EventsProcessSchema.BaseElements.SynchronizeSubjectRemindingOwnerScript.Caption" Value="SynchronizeSubjectRemindingOwnerScript" />
+			<Item Name="EventsProcessSchema.BaseElements.SyncronizeProjectActualStartDate.Caption" Value="Syncronize Project Actual Start Date" />
+			<Item Name="EventsProcessSchema.BaseElements.TryProcessCompleteScriptTask1.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.BaseElements.TryProcessCompleteScriptTask2.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.BaseElements.UpdateRemindings.Caption" Value="Update reminders" />
+			<Item Name="EventsProcessSchema.Caption" Value="Activity" />
+			<Item Name="EventsProcessSchema.LaneSets.ActivityLaneSet.Caption" Value="Pool" />
+			<Item Name="EventsProcessSchema.LaneSets.ActivityLaneSet.Lanes.BaseEntityLane2.Caption" Value="Lane 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1253567487.Caption" Value="Pool 14675678567" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_d83e88f0a11d48f580aa39b656256203.Caption" Value="Pool 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet1_d83e88f0a11d48f580aa39b656256203.Lanes.Lane3_cc13f5c1982a44989f21d018655afd49.Caption" Value="Lane 3" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2.Lanes.Lane3.Caption" Value="Lane 3" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_94dd151532f94afaaf3a5d029376fcd1.Caption" Value="Pool 2" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet2_94dd151532f94afaaf3a5d029376fcd1.Lanes.Lane4_734ce6f44a3f4189993bcf25dda3cf56.Caption" Value="Lane 4" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet3.Caption" Value="Pool 3" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet3.Lanes.Lane4.Caption" Value="Lane 4" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet388.Caption" Value="Pool" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet388.Lanes.Lane1186.Caption" Value="Lane" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet4_1c99799fd06e41ebb2eb5f27c198064c.Caption" Value="Pool 4" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet4_1c99799fd06e41ebb2eb5f27c198064c.Lanes.Lane5_b4f70d334d1c4436b6051307dc248f3b.Caption" Value="Lane 5" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_6f67fb985b114a3890c74051e36847c6.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_6f67fb985b114a3890c74051e36847c6.Lanes.Lane_a0b9b717bde246b8bc8ddfd2f4bb3cb3.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Caption" Value="LaneSet 1" />
+			<Item Name="EventsProcessSchema.LaneSets.LaneSet_8e2662a8ae8c4b6e9a845c8ca3372fb5.Lanes.Lane_5f6cb908f09b453d8f21d5590e55940b.Caption" Value="Lane 1" />
+			<Item Name="EventsProcessSchema.Methods.AutoEmailRelationProceed.Caption" Value="AutoEmailRelationProceed" />
+			<Item Name="EventsProcessSchema.Methods.CanInitDcmForEntity.Caption" Value="CanInitDcmForEntity" />
+			<Item Name="EventsProcessSchema.Methods.CancelNotEnabledDcmProcess.Caption" Value="CancelNotEnabledDcmProcess" />
+			<Item Name="EventsProcessSchema.Methods.CheckNeedAutoEmailRelation.Caption" Value="CheckNeedAutoEmailRelation" />
+			<Item Name="EventsProcessSchema.Methods.GenerateRemindings.Caption" Value="GenerateRemindings" />
+			<Item Name="EventsProcessSchema.Methods.GetAnniversaryDependentColumns.Caption" Value="GetAnniversaryDependentColumns" />
+			<Item Name="EventsProcessSchema.Methods.GetEmailRightsManager.Caption" Value="GetEmailRightsManager" />
+			<Item Name="EventsProcessSchema.Methods.GetEmailsByFormatedEmails.Caption" Value="GetEmailsByFormatedEmails" />
+			<Item Name="EventsProcessSchema.Methods.GetFetchedDisplayColumnValue.Caption" Value="Read lookup column display value from DB" />
+			<Item Name="EventsProcessSchema.Methods.GetLookupDisplayColumnValue.Caption" Value="Get display value for lookup column" />
+			<Item Name="EventsProcessSchema.Methods.GetRecepientsEmailsForDelete.Caption" Value="GetRecepientsEmailsForDelete" />
+			<Item Name="EventsProcessSchema.Methods.GetRecepientsForAdding.Caption" Value="GetRecepientsForAdding" />
+			<Item Name="EventsProcessSchema.Methods.GetRemindingOptions.Caption" Value="GetRemindingOptions" />
+			<Item Name="EventsProcessSchema.Methods.IndexEntity.Caption" Value="Object Method 1" />
+			<Item Name="EventsProcessSchema.Methods.InitCanGenerateAnniversaryReminding.Caption" Value="InitCanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Methods.InitDcmOnEntityChanging.Caption" Value="InitDcmOnEntityChanging" />
+			<Item Name="EventsProcessSchema.Methods.InitializeEmailParticipantHelper.Caption" Value="InitializeEmailParticipantHelper" />
+			<Item Name="EventsProcessSchema.Methods.IsConditionDataMatch.Caption" Value="IsConditionDataMatch" />
+			<Item Name="EventsProcessSchema.Methods.NotifyListeners.Caption" Value="NotifyListeners" />
+			<Item Name="EventsProcessSchema.Methods.OnActivityUpdated_aa5f074ac858455d865435cc7584e9ca.Caption" Value="OnActivityUpdated" />
+			<Item Name="EventsProcessSchema.Methods.ProcessCompleteExecuting.Caption" Value="ProcessCompleteExecuting" />
+			<Item Name="EventsProcessSchema.Methods.RemoveEmailParticipants.Caption" Value="RemoveEmailParticipants" />
+			<Item Name="EventsProcessSchema.Methods.SetEmailParticipants.Caption" Value="SetEmailParticipants" />
+			<Item Name="EventsProcessSchema.Methods.TryProcessComplete.Caption" Value="TryProcessComplete" />
+			<Item Name="EventsProcessSchema.Methods.UpdateParticipantsByOwnerContact.Caption" Value="UpdateParticipantsByOwnerContact" />
+			<Item Name="EventsProcessSchema.Parameters.BlindCopyRecepientsEmails.Caption" Value="BlindCopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.CanGenerateAnniversaryReminding.Caption" Value="CanGenerateAnniversaryReminding" />
+			<Item Name="EventsProcessSchema.Parameters.CanUseDcm.Caption" Value="CanUseDcm" />
+			<Item Name="EventsProcessSchema.Parameters.CopyRecepientsEmails.Caption" Value="CopyRecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.DcmEntityUtil.Caption" Value="DcmEntityUtil" />
+			<Item Name="EventsProcessSchema.Parameters.DeletedValues.Caption" Value="DeletedValues" />
+			<Item Name="EventsProcessSchema.Parameters.EmailParticipantHelper.Caption" Value="EmailParticipantHelper" />
+			<Item Name="EventsProcessSchema.Parameters.EntityChangedColumns.Caption" Value="EntityChangedColumns" />
+			<Item Name="EventsProcessSchema.Parameters.InsertedValues.Caption" Value="InsertedValues" />
+			<Item Name="EventsProcessSchema.Parameters.IsDifferentContacts.Caption" Value="IsDifferentContacts" />
+			<Item Name="EventsProcessSchema.Parameters.IsNeedAutoEmailRelation.Caption" Value="IsNeedAutoEmailRelation" />
+			<Item Name="EventsProcessSchema.Parameters.IsNew.Caption" Value="IsNew" />
+			<Item Name="EventsProcessSchema.Parameters.IsProcessModeSave.Caption" Value="IsProcessModeSave" />
+			<Item Name="EventsProcessSchema.Parameters.NextProcessElementReady.Caption" Value="NextProcessElementReady" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessListeners.Caption" Value="ProcessListeners" />
+			<Item Name="EventsProcessSchema.Parameters.ProcessSchemaListeners.Caption" Value="ProcessSchemaListeners" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmails.Caption" Value="RecepientsEmails" />
+			<Item Name="EventsProcessSchema.Parameters.RecepientsEmailsForDelete.Caption" Value="RecepientsEmailsForDelete" />
+			<Item Name="EventsProcessSchema.Parameters.SenderEmail.Caption" Value="SenderEmail" />
+			<Item Name="EventsProcessSchema.Parameters.SenderId.Caption" Value="SenderId" />
+			<Item Name="EventsProcessSchema.Parameters.newContactId.Caption" Value="newContactId" />
+			<Item Name="EventsProcessSchema.Parameters.newOwnerId.Caption" Value="newOwnerId" />
+			<Item Name="EventsProcessSchema.Parameters.oldContactId.Caption" Value="oldContactId" />
+			<Item Name="EventsProcessSchema.Parameters.oldOwnerId.Caption" Value="oldOwnerId" />
+		</Items>
+	</Group>
+</Resources>

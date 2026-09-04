@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
+    "Name": "UsrStageCase",
+    "ModifiedOnUtc": "\/Date(1788516843000)\/",
+    "ManagerName": "DcmSchemaManager",
+    "Caption": "Стадии заявки",
+    "DependsOn": []
+  }
+}

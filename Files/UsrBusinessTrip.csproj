@@ -1104,6 +1104,7 @@
 	</ItemGroup>
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/Activity/Activity.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/Activity/Activity.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs')" />
