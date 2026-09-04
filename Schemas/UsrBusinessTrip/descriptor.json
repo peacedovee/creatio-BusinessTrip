@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "4b93d605-0d87-4de0-8b44-4612f9f17783",
     "Name": "UsrBusinessTrip",
-    "ModifiedOnUtc": "\/Date(1788522319000)\/",
+    "ModifiedOnUtc": "\/Date(1788523181000)\/",
     "Parent": {
       "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
       "Name": "BaseEntity"
