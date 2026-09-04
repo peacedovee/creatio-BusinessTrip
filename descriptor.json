@@ -1,0 +1,18 @@
+﻿{
+  "Descriptor": {
+    "UId": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
+    "Name": "UsrBusinessTrip",
+    "Type": 1,
+    "ModifiedOnUtc": "\/Date(1788510164000)\/",
+    "Maintainer": "Customer",
+    "ProjectPath": "Files/UsrBusinessTrip.csproj",
+    "Description": "Заявки на командировку",
+    "DependsOn": [
+      {
+        "UId": "3f299622-2079-4a62-ba18-6d32c1d0d6af",
+        "PackageVersion": "7.8.0",
+        "Name": "SalesEnterprise_Marketing_ServiceEnt"
+      }
+    ]
+  }
+}
