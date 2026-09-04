@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "0b914875-3182-4bc3-84f9-9966c35f658a",
+    "Name": "UsrBusinessTripFolder",
+    "ModifiedOnUtc": "\/Date(1788514800000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Группа Заявка на командировку",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Descriptor": {
+    "UId": "50af04bf-5e80-40bf-b65b-5d73c34e5518",
+    "Name": "UsrBusinessTrip8dc73d1eSection",
+    "ModifiedOnUtc": "\/Date(1788515009000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Схема раздела: \"Заявки на командировку\""
+  }
+}

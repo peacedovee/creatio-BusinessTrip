@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f740eee5-6b59-4c4f-9e4c-8cfde49a4f1e",
+    "Name": "UsrBusinessTripInTag",
+    "ModifiedOnUtc": "\/Date(1788514803000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Тег в записи раздела Заявка на командировку",
+    "DependsOn": []
+  }
+}

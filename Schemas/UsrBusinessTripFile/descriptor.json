@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "482424b3-3214-4671-be03-f73407c947b1",
+    "Name": "UsrBusinessTripFile",
+    "ModifiedOnUtc": "\/Date(1788514797000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Файл и ссылка объекта Заявка на командировку",
+    "DependsOn": []
+  }
+}

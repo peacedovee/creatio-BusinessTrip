@@ -1,7 +1,12 @@
 <Project>
 	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInFolder/UsrBusinessTripInFolder.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInFolder/UsrBusinessTripInFolder.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs')" />
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs')" />
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs')" />
 	</ItemGroup>
 </Project>

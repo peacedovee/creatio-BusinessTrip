@@ -1105,7 +1105,12 @@
 	<ItemGroup Label="Standalone package external assembly references" />
 	<ItemGroup Label="Entity Files">
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTrip/UsrBusinessTrip.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFile/UsrBusinessTripFile.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripFolder/UsrBusinessTripFolder.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInFolder/UsrBusinessTripInFolder.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInFolder/UsrBusinessTripInFolder.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs')" />
+		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs')" />
 		<Compile Remove="$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs" Condition="Exists('$(RelativePkgFolderPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs')" />
 	</ItemGroup>
 	<ItemGroup Label="3rd Party References"></ItemGroup>

@@ -9,6 +9,7 @@
 			<Item Name="Columns.UsrDestinationCity.Caption" Value="Destination City" />
 			<Item Name="Columns.UsrEmployee.Caption" Value="Employee" />
 			<Item Name="Columns.UsrEstimatedCost.Caption" Value="Estimated Cost" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Заметки" />
 			<Item Name="Columns.UsrNumber.Caption" Value="Number" />
 			<Item Name="Columns.UsrOwner.Caption" Value="Owner" />
 			<Item Name="Columns.UsrRejectionReason.Caption" Value="Rejection Reason" />

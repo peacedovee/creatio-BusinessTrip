@@ -22,6 +22,10 @@
 = MetaData.Schema.EG1.BK4.["f0646c74-f291-474f-9a10-143ee868f1c9"].CK2.["b3d5b61f-7afe-48b5-a8cc-40317ea9c428"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
 = MetaData.Schema.EG1.BK4.["8140d7e7-fb91-4999-8347-543345440efb"].CK2.["c803a450-c8dc-47a4-b704-7125c23db317"].BL7 "53818048-7868-48f6-ada0-0ebaa65af628"
 = MetaData.Schema.EG1.JC1 []
++ MetaData.Schema.D29 "null"
++ MetaData.Schema.D30 "null"
++ MetaData.Schema.D31 "null"
++ MetaData.Schema.D4 "2c25be4f-da21-d9c0-d7cd-9ac3df2356d9"
 - MetaData.Schema.D2.["ae0e45ca-c495-4fe7-a39d-3ab7278e1617"].E16
 - MetaData.Schema.D2.["e80190a5-03b2-4095-90f7-a193a960adee"].E16
 - MetaData.Schema.D2.["ebf6bb93-8aa6-4a01-900d-c6ea67affe21"].E16
@@ -158,6 +162,15 @@
   "E17": "UsrStageId",
   "E18": "UsrStageName"
 }
++ MetaData.Schema.D2 {
+  "UId": "578c49e8-aeb5-41d2-af46-1dfc06745a80",
+  "A2": "UsrNotes",
+  "A3": "4b93d605-0d87-4de0-8b44-4612f9f17783",
+  "A4": "4b93d605-0d87-4de0-8b44-4612f9f17783",
+  "A5": "e35841c7-7819-46d8-bcde-f8453dc67213",
+  "S2": "c0f04627-4620-4bc0-84e5-9419dc8516b1",
+  "E5": false
+}
 ~ MetaData.Schema.D2 [
   "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
   "e80190a5-03b2-4095-90f7-a193a960adee",
@@ -176,7 +189,8 @@
   "bf2f4529-dc53-0191-c9cb-b2b8f25dc51a",
   "2c25be4f-da21-d9c0-d7cd-9ac3df2356d9",
   "4ae81f89-46f8-2138-cd27-0fb9e38415f4",
-  "b07c1a7f-7e7e-70de-32e4-ab8759f0d37a"
+  "b07c1a7f-7e7e-70de-32e4-ab8759f0d37a",
+  "578c49e8-aeb5-41d2-af46-1dfc06745a80"
 ]
 = MetaData.Schema.D20.A2 "UsrBusinessTripEvents"
 + MetaData.Schema.D20.FA1 false

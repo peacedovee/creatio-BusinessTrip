@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Страница редактирования: &quot;Заявка на командировку&quot;" />
+			<Item Name="LocalizableStrings.TabVisasTabCaption.Value" Value="Visas" />
+		</Items>
+	</Group>
+</Resources>
