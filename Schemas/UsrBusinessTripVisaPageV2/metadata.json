@@ -1,0 +1,12 @@
+= MetaData.Schema.UId "57915a6e-cbd2-46eb-a825-99e890455edb"
+= MetaData.Schema.A2 "UsrBusinessTripVisaPageV2"
+= MetaData.Schema.B6 "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07"
+= MetaData.Schema.B8 "8.3.2.4199"
+= MetaData.Schema.HD1 "66e3a5b3-f004-4335-a4e9-5ba255c8a319"
+= MetaData.Schema.HD5 []
+- MetaData.Schema.HD12
+- MetaData.Schema.HD2
+- MetaData.Schema.HD9
+- MetaData.Schema.HD10
+- MetaData.Schema.B7
++ MetaData.Schema.B7 false

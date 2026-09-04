@@ -89,10 +89,6 @@
       "StageConnections": {
         "Connections": [
           {
-            "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
-            "Target": "c6211ec0-a473-498c-a3ee-c3a1e991f458"
-          },
-          {
             "Source": "d161bfa5-8001-4fb0-9d1f-7cf1fe786965",
             "Target": "96737581-33a2-42d6-99e0-f25edf8830e3"
           },
@@ -101,7 +97,35 @@
             "Target": "bef50c0e-77d7-40af-a5d5-458367f10b47"
           },
           {
+            "Source": "96737581-33a2-42d6-99e0-f25edf8830e3",
+            "Target": "d161bfa5-8001-4fb0-9d1f-7cf1fe786965"
+          },
+          {
             "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+            "Target": "96737581-33a2-42d6-99e0-f25edf8830e3"
+          },
+          {
+            "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+            "Target": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154"
+          },
+          {
+            "Source": "bef50c0e-77d7-40af-a5d5-458367f10b47",
+            "Target": "c6211ec0-a473-498c-a3ee-c3a1e991f458"
+          },
+          {
+            "Source": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154",
+            "Target": "bef50c0e-77d7-40af-a5d5-458367f10b47"
+          },
+          {
+            "Source": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154",
+            "Target": "c6211ec0-a473-498c-a3ee-c3a1e991f458"
+          },
+          {
+            "Source": "c6211ec0-a473-498c-a3ee-c3a1e991f458",
+            "Target": "bef50c0e-77d7-40af-a5d5-458367f10b47"
+          },
+          {
+            "Source": "c6211ec0-a473-498c-a3ee-c3a1e991f458",
             "Target": "bcf1beb8-4be3-4ea7-8557-08ebb1d33154"
           }
         ]

@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "d258f287-6899-4daa-a6f8-11dc281c076a",
     "Name": "SysModule_SectionManager_d0a2313a39c940ba9182659098a14c18",
-    "ModifiedOnUtc": "\/Date(1788515021000)\/",
+    "ModifiedOnUtc": "\/Date(1788517509000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "2b2ed767-0b4b-4a7b-9de2-d48e14a2c0c5",
@@ -179,7 +179,7 @@
       },
       {
         "ColumnUId": "e6243d2b-cc8f-4b2d-8646-36bac9fb48e9",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "SysModuleVisa",
         "DataTypeValueUId": "b295071f-7ea9-4e62-8d1a-919bf3732ff2"

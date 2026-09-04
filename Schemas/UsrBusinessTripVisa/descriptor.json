@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a380f891-2e91-4064-aa22-09249238879a",
+    "Name": "UsrBusinessTripVisa",
+    "ModifiedOnUtc": "\/Date(1788517496000)\/",
+    "Parent": {
+      "UId": "5fa90d0d-64eb-4f52-8d3d-c51fa6443b66",
+      "Name": "BaseVisa"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Визы в разделе Заявки на командировку",
+    "DependsOn": []
+  }
+}

@@ -3,6 +3,7 @@
 	<Group Type="String">
 		<Items>
 			<Item Name="Caption" Value="Страница редактирования: &quot;Заявка на командировку&quot;" />
+			<Item Name="LocalizableStrings.InvalidDatesMessage.Value" Value="Дата возвращения не может быть раньше даты выезда" />
 			<Item Name="LocalizableStrings.TabVisasTabCaption.Value" Value="Визы" />
 		</Items>
 	</Group>

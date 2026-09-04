@@ -8,6 +8,7 @@
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripInTag/UsrBusinessTripInTag.cs')" />
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripStage/UsrBusinessTripStage.cs')" />
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripTag/UsrBusinessTripTag.cs')" />
+		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripVisa/UsrBusinessTripVisa.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrBusinessTripVisa/UsrBusinessTripVisa.cs')" />
 		<Compile Include="$(PkgPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs" Condition="Exists('$(PkgPath)/UsrBusinessTrip/Schemas/UsrTripPurpose/UsrTripPurpose.cs')" />
 	</ItemGroup>
 </Project>
