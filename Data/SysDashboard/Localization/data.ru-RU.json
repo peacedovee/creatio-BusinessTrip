@@ -1,0 +1,23 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "9fb0f4b4-8911-4b92-a0d2-847d43ef752d"
+        },
+        {
+          "SchemaColumnUId": "551ce105-25dc-4a76-b318-cf37635e88c3",
+          "ColumnName": "Items",
+          "Value": "{\"Charta991057f6ed8\":{\"parameters\":{\"seriesConfig\":[],\"orderBy\":\"GroupByField\",\"orderDirection\":\"Ascending\",\"dateTimeFormat\":null,\"caption\":\"Количество заявок по целям поездки\",\"sectionId\":\"d0a2313a-39c9-40ba-9182-659098a14c18\",\"xAxisDefaultCaption\":null,\"yAxisDefaultCaption\":null,\"useEmptyValue\":false,\"isStackedChart\":false,\"primaryColumnName\":\"Id\",\"yAxisConfig\":{\"position\":0},\"schemaName\":\"UsrBusinessTrip\",\"sectionBindingColumn\":\"Id\",\"func\":1,\"isPercentageMode\":false,\"type\":\"pie\",\"xAxisColumn\":\"UsrTripPurpose\",\"yAxisColumn\":null,\"YAxisCaption\":\"Заявки на командировку\",\"styleColor\":\"widget-green\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"UsrBusinessTrip\\\",\\\"key\\\":\\\"\\\"}\",\"format\":{\"thousandSeparator\":\" \",\"type\":4,\"dateFormat\":\"d.m.Y\"},\"isLegendEnabled\":false},\"widgetType\":\"Chart\"},\"Chart4f0a78efc67a\":{\"parameters\":{\"seriesConfig\":[],\"orderBy\":\"GroupByField\",\"orderDirection\":\"Ascending\",\"dateTimeFormat\":\"Month\",\"caption\":\"Сумма ориентировочной стоимости по месяцам\",\"sectionId\":\"d0a2313a-39c9-40ba-9182-659098a14c18\",\"xAxisDefaultCaption\":\"месяц\",\"yAxisDefaultCaption\":\"сумма\",\"useEmptyValue\":true,\"isStackedChart\":false,\"primaryColumnName\":\"Id\",\"yAxisConfig\":{\"position\":0},\"schemaName\":\"UsrBusinessTrip\",\"sectionBindingColumn\":\"Id\",\"func\":2,\"isPercentageMode\":false,\"type\":\"column\",\"xAxisColumn\":\"UsrDepartureDate\",\"yAxisColumn\":\"UsrEstimatedCost\",\"YAxisCaption\":\"Заявки на командировку\",\"styleColor\":\"widget-violet\",\"filterData\":\"{\\\"className\\\":\\\"Terrasoft.FilterGroup\\\",\\\"items\\\":{},\\\"logicalOperation\\\":0,\\\"isEnabled\\\":true,\\\"filterType\\\":6,\\\"rootSchemaName\\\":\\\"UsrBusinessTrip\\\",\\\"key\\\":\\\"\\\"}\",\"format\":{\"thousandSeparator\":\" \",\"type\":4,\"dateFormat\":\"d.m.Y\"},\"isLegendEnabled\":false},\"widgetType\":\"Chart\"}}"
+        },
+        {
+          "SchemaColumnUId": "a215f575-7283-41bd-8852-b2415a935051",
+          "ColumnName": "Caption",
+          "Value": "Командировки"
+        }
+      ]
+    }
+  ]
+}

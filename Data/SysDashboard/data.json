@@ -1,0 +1,43 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "9fb0f4b4-8911-4b92-a0d2-847d43ef752d"
+        },
+        {
+          "SchemaColumnUId": "3015559e-cbc6-406a-88af-07f7930be832",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "78ed4015-b81f-49fc-9d50-847cf8df5e6c",
+          "Value": 0
+        },
+        {
+          "SchemaColumnUId": "9928edec-4272-425a-93bb-48743fee4b04",
+          "Value": "\/Date(1788532131096+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "9eedf8ab-d02e-4a4a-9f9d-19ede1c873bc",
+          "Value": "d0a2313a-39c9-40ba-9182-659098a14c18",
+          "DisplayValue": "Заявка на командировку"
+        },
+        {
+          "SchemaColumnUId": "e80190a5-03b2-4095-90f7-a193a960adee",
+          "Value": "\/Date(1788531994976+0300)\/"
+        },
+        {
+          "SchemaColumnUId": "ebf6bb93-8aa6-4a01-900d-c6ea67affe21",
+          "Value": "410006e1-ca4e-4502-a9ec-e54d922d2c00",
+          "DisplayValue": "Supervisor"
+        },
+        {
+          "SchemaColumnUId": "fb750eb9-35b6-463e-b3b8-1a69ec871e43",
+          "Value": "[{\"layout\":{\"column\":0,\"row\":0,\"colSpan\":12,\"rowSpan\":6},\"name\":\"Charta991057f6ed8\",\"itemType\":4},{\"layout\":{\"column\":12,\"row\":0,\"colSpan\":12,\"rowSpan\":6},\"name\":\"Chart4f0a78efc67a\",\"itemType\":4}]"
+        }
+      ]
+    }
+  ]
+}
