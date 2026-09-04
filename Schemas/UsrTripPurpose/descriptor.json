@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c689b967-9494-421b-8b3f-e0cb9a6aa0c0",
+    "Name": "UsrTripPurpose",
+    "ModifiedOnUtc": "\/Date(1788512173000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Trip Purpose",
+    "DependsOn": []
+  }
+}
