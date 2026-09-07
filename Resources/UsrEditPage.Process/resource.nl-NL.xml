@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="nl-NL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="Bedrijf" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="Categorie" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="Prioriteit" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="Resultaten van taken" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="Uniek Id van &quot;Activiteit&quot; object schema" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="Case" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="Wijzigen" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="Contact" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="Contract" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="Activiteit maken" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Uniek id van de activiteit" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="Gegevensbron filters" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="Kolom" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="Document" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="Duur" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="Looptijd (periode)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="Pagin editmode" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="Overweeg voltooid" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="uitvoering context" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="Lijst van de resultaten wordt gegenereerd door kolom" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="Incident" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="Informatie over stap" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="Factuur" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Activiteit voltooid" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="Als object voldoet aan de volgende voorwaarden" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="Herhaalde voltooiing" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="Lijsten" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="Object" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Verkoopkans" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="Order" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="Eigenaar" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="Pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="Unieke identificatie van de pagina" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="Probleem" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="Project" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="Eigendom" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="Aanbeveling" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="Standaardwaarden" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="Record Id" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="Uitgave" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="Herinner eigenaar van tevoren" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Eigenaar vooraf herinneren (periode)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="Verzoek" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="Uiteenlopende parameter" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Toon executie pagina automatisch" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Toon in kalender" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="Begin met uitvoeren in" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="Start het uitvoeren in (periode)" />
+			<Item Name="Caption" Value="UsrEditPage" />
+		</Items>
+	</Group>
+</Resources>

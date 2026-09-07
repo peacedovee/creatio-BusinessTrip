@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="lv-LV">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="Persona" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="Kategorija" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="Prioritāte" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="Aktivitātes rezultāts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="Unikāls identifikators &quot;Aktivitātes&quot; objekta shēmai" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="Lieta" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="Mainīt" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="Kontakts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="Līgums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="Izveidot aktivitāti" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="Aktivitātes unikālais identifikators" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="Datu avota filtri" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="Kolonna" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="Dokuments" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="Ilgums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="Ilgums (periods)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="Lapas rediģēšanas režīms" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="Ņemt vērā pabeigto" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="Izpildes konteksts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="Rezultātu saraksts ģenerēts pēc kolonnas" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="Incidents" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="Informācija par soli" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="Rēķins" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="Aktivitāte pabeigta" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="Ja objekts atbilst šādiem nosacījumiem" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="Atkārtota pabeigšana" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Potenciālais klients" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="Ieraksts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="Objekts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Iespēja" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="Pasūtījums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="Īpašnieks" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="Lapa" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="Lapas veida unikālais identifikators" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="Problēma" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="Projekts" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="Īpašums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="Ieteikums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="Noklusējuma vērtības" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="Ieraksta Id" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="Publikācija" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="Atgādināt īpašniekam iepriekš" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="Atgādināt īpašniekam iepriekš (periods)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="Pieprasījums" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="Atšķirīgs parametrs" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="Automātiski parādīt izpildes lapu" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="Rādīt kalendārā" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="Sākt izpildi" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="Sākt izpildi (periods)" />
+			<Item Name="Caption" Value="UsrEditPage" />
+		</Items>
+	</Group>
+</Resources>

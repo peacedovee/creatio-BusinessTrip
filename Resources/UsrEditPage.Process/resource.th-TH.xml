@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="th-TH">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="ลูกค้า (บริษัท)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="หมวดหมู่" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="ลำดับความสำคัญ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="ผลลัพธ์ของกิจกรรม" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="ตัวระบุที่ไม่ซ้ำของโครงสร้างข้อใูลออบเจ็กต์ &quot;กิจกรรม&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="เคส" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="เปลี่ยน" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="ผู้ติดต่อ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="สัญญา" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="สร้างกิจกรรม" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="ตัวระบุที่มีลักษณะเฉพาะของกิจกรรม" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="ตัวกรองแหล่งข้อมูล" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="คอลัมน์ (แนว)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="เอกสาร" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="ระยะเวลา" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="ระยะเวลา (ช่วงเวลา)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="โหมดแก้ไขหน้า" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="ถือว่าเสร็จสิ้น" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="บริบทการดำเนินการ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="รายการผลลัพธืถูกสร้างโดยคอลัมน์" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="อุบัติการณ์" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="ข้อมูลข่าวสารเกี่ยวกับขั้นตอน" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="ใบแจ้งหนี้" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="กิจกรรมแล้วเสร็จ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="ถ้าออบเจ็กต์ตรงกับเงื่อนไขต่อไปนี้" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="การเสร็จสิ้นซ้ำแล้วซ้ำอีก" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="Lead" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="การทำรายการ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="ออบเจ็กต์" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="Opportunity" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="คำสั่งซื้อ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="เจ้าของ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="หน้า" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="ตัวระบุที่ไม่ซ้ำของประเภทหน้า" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="ปัญหา" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="โครงการ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="คุณสมบัติ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="การเสนอแนะ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="ค่าเริ่มต้น" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="ไอดีของบันทึก" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="รีลีส" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="เตือนเจ้าของล่วงหน้า" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="เตือนความจำเจ้าของล่วงหน้า (ระยะเวลา)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="ร้องขอ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="พารามิเตอร์ที่หักเห" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="แสดงหน้าการดำเนินการโดยอัตโนมัติ" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="แสดงในปฏิทิน" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="เริ่มดำเนินการใน" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="เริ่มการดำเนินการใน (ระยะเวลา)" />
+			<Item Name="Caption" Value="UsrEditPage" />
+		</Items>
+	</Group>
+</Resources>

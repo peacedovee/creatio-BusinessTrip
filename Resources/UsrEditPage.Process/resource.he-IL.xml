@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="he-IL">
+	<Group Type="String">
+		<Items>
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Account.Caption" Value="חברה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.Caption" Value="קטגוריה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityCategory.DisplayValue" Value="לעשות" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.Caption" Value="עדיפות" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityPriority.DisplayValue" Value="ab96fa02-7fe6-df11-971b-001d60e938c6" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivityResult.Caption" Value="תוצאת פעילות" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ActivitySchemaUId.Caption" Value="מזהה ייחודי של סכימת אובייקט &quot;פעילות&quot;" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Case.Caption" Value="מקרה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Change.Caption" Value="שינוי" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ConfItem.Caption" Value="פריט תצורה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contact.Caption" Value="איש קשר" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Contract.Caption" Value="חוזה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.Caption" Value="צור פעילות" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CreateActivity.DisplayValue" Value="שגוי" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.CurrentActivityId.Caption" Value="מזהה ייחודי של פעילות" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DataSourceFilters.Caption" Value="מסנני מקור נתונים" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DecisionalColumnMetaPath.Caption" Value="עמודה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Document.Caption" Value="מסמך" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.Caption" Value="משך" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Duration.DisplayValue" Value="5" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.Caption" Value="משך (תקופה)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.DurationPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.EditMode.Caption" Value="מצב עריכה של דף" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Event.Caption" Value="תהליך" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutedMode.Caption" Value="שקול כהושלם" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ExecutionContext.Caption" Value="הקשר ביצוע" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.GenerateDecisionsFromColumn.Caption" Value="רשימת התוצאות נוצרת על ידי עמודה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Incident.Caption" Value="תקרית" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.InformationOnStep.Caption" Value="מידע על שלב" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Invoice.Caption" Value="חשבונית" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.Caption" Value="פעילות הושלמה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsActivityCompleted.DisplayValue" Value="שגוי" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsMatchConditions.Caption" Value="אם האובייקט עונה על התנאים הבאים" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.IsReexecution.Caption" Value="השלמה חוזרת" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.KnowledgeBase.Caption" Value="מאמר בסיס ידע" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Lead.Caption" Value="הפניה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Listing.Caption" Value="רשימה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ObjectSchemaId.Caption" Value="אובייקט" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OmniChat.Caption" Value="צ'אט" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Opportunity.Caption" Value="הזדמנות עסקית" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Order.Caption" Value="הזמנה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.OwnerId.Caption" Value="בעלים" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageSchemaId.Caption" Value="דף" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.PageTypeUId.Caption" Value="מזהה ייחודי של סוג דף" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Problem.Caption" Value="בעיה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Project.Caption" Value="פרויקט" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Property.Caption" Value="מאפיין" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Recommendation.Caption" Value="המלצה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordColumnValues.Caption" Value="ערכי ברירת מחדל" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RecordId.Caption" Value="מזהה רשומה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Release.Caption" Value="שחרור גרסה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.Caption" Value="הזכר לבעלים מראש" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBefore.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.Caption" Value="הזכר לבעלים מראש (תקופה)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.RemindBeforePeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.Requests.Caption" Value="בקשה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ResultParameter.Caption" Value="פרמטר מתפצל" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.Caption" Value="הצג את דף הביצוע באופן אוטומטי" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowExecutionPage.DisplayValue" Value="אמת" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.Caption" Value="הצג בלוח השנה" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.ShowInScheduler.DisplayValue" Value="שגוי" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.Caption" Value="התחל להוציא לפועל ב" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartIn.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.Caption" Value="התחל להוציא לפועל ב (תקופה)" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.StartInPeriod.DisplayValue" Value="0" />
+			<Item Name="BaseElements.OpenEditPageUserTask1.Parameters.UsrUsrBusinessTrip.Caption" Value="System administration object" />
+			<Item Name="Caption" Value="UsrEditPage" />
+		</Items>
+	</Group>
+</Resources>

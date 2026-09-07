@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5f83d6ac-486e-47d6-abe6-7880e687b05a",
+    "Name": "UsrEditPage",
+    "ModifiedOnUtc": "\/Date(1788787826000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrEditPage",
+    "DependsOn": []
+  }
+}

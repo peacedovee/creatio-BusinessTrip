@@ -7,9 +7,18 @@
 			<Item Name="NotificationCaption.DisplayValue" Value="[#Название процесса#]" />
 			<Item Name="Stages.Stage1.Caption" Value="Черновик" />
 			<Item Name="Stages.Stage2.Caption" Value="На согласовании" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.Caption" Value="UsrBpCreateVisa" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.BusinessTripId.Caption" Value="BusinessTripId" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.BusinessTripId.DisplayValue" Value="[#Основная запись.Id#]" />
+			<Item Name="Stages.Stage2.Elements.DcmElement1.ProcessFlowElement.Parameters.VisaId.Caption" Value="VisaId" />
 			<Item Name="Stages.Stage3.Caption" Value="Согласована" />
 			<Item Name="Stages.Stage4.Caption" Value="Завершена" />
 			<Item Name="Stages.Stage5.Caption" Value="Отклонена" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.Caption" Value="UsrEditPage" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.UsrID.Caption" Value="UsrID" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.UsrID.DisplayValue" Value="[#Основная запись.Id#]" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.UsrOwnerID.Caption" Value="UsrOwnerID" />
+			<Item Name="Stages.Stage5.Elements.DcmElement2.ProcessFlowElement.Parameters.UsrOwnerID.DisplayValue" Value="[#Основная запись.Ответственный#]" />
 		</Items>
 	</Group>
 </Resources>

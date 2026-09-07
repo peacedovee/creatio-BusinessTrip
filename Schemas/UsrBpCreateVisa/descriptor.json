@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "500d5c92-3628-4003-b543-37065044f8d1",
+    "Name": "UsrBpCreateVisa",
+    "ModifiedOnUtc": "\/Date(1788788023000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrBpCreateVisa",
+    "DependsOn": []
+  }
+}
