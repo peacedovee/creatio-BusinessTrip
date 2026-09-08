@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "f4d6aab2-1086-4ae6-b243-7c911f5952cf",
+    "Name": "UsrBpBusinessTripRightsEdit",
+    "ModifiedOnUtc": "\/Date(1788871683000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrBpBusinessTripRights",
+    "DependsOn": []
+  }
+}
