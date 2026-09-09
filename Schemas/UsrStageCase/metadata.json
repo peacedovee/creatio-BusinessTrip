@@ -50,7 +50,7 @@
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
-          "UId": "38a3a204-f5f0-4e3e-8614-064299ed5c18",
+          "UId": "2c0d1b11-acfc-4b08-8498-3b009981c4e2",
           "A2": "DcmProcessElement1",
           "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
           "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
@@ -64,7 +64,7 @@
         },
         {
           "BL1": "Terrasoft.Core.Process.ProcessSchemaMapping",
-          "UId": "3b4cd504-ba12-4a85-b631-e9bf817a11a9",
+          "UId": "58aa901a-d55d-4efd-85cc-cd3908bee228",
           "A2": "DcmProcessElement1",
           "A3": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
           "A4": "bd480765-ff35-4fe8-a1fc-746effe9b1ac",
@@ -175,7 +175,8 @@
           "A5": "5f78f4ea-da7a-3d8d-17e9-947f9c1e2d07",
           "Color": "#0C8701",
           "StageRecordId": "babbe1f3-767b-4a32-820c-fcd804fd1c7e",
-          "Elements": []
+          "Elements": [],
+          "TransitionType": 2
         },
         {
           "BL1": "Terrasoft.Core.DcmProcess.DcmSchemaStage",

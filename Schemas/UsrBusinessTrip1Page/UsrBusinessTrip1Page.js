@@ -94,6 +94,26 @@ define("UsrBusinessTrip1Page", [], function() {
 						}
 					]
 				}
+			},
+			"UsrOwner": {
+				"86bca841-cc07-4bb6-a60b-57d2754cddb6": {
+					"uId": "86bca841-cc07-4bb6-a60b-57d2754cddb6",
+					"enabled": true,
+					"removed": false,
+					"ruleType": 0,
+					"property": 2,
+					"logical": 0,
+					"conditions": [
+						{
+							"comparisonType": 1,
+							"leftExpression": {
+								"type": 1,
+								"dataValueType": 10,
+								"attribute": "UsrOwner"
+							}
+						}
+					]
+				}
 			}
 		}/**SCHEMA_BUSINESS_RULES*/,
 		methods: {

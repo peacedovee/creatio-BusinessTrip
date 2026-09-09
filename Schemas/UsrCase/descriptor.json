@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "db66c400-93d3-4c76-b738-5779f3a3db13",
+    "Name": "UsrCase",
+    "ModifiedOnUtc": "\/Date(1788945244000)\/",
+    "ManagerName": "ProcessSchemaManager",
+    "Caption": "UsrCase",
+    "DependsOn": []
+  }
+}
